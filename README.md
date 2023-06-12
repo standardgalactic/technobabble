@@ -1,2 +1,3 @@
 # technobabble
-Original pirate material.
+
+Esoteric Terminology
