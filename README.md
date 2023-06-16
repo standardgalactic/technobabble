@@ -2,4 +2,4 @@
 
 Esoteric Terminology
 
-![Alt Text](ising_animation.gif)
+![Ising Sync](ising_animation.gif)
