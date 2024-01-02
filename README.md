@@ -1,4 +1,4 @@
-# technobabble
+# Technobabble
 
 Esoteric Terminology
 
